@@ -1,3 +1,5 @@
+<a href="https://xplorahub.com/methods"><img src="assets/banner.png" alt="Awesome mineral exploration, curated by XploraHub" width="100%"></a>
+
 # Awesome mineral exploration [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of open-source software for mineral exploration: geophysics, geological modelling, drillholes, geostatistics, geochemistry, remote sensing and prospectivity mapping.
