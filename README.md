@@ -11,7 +11,7 @@
 [![Licence: CC0](https://img.shields.io/badge/licence-CC0--1.0-green)](LICENSE)
 [![XploraHub](https://img.shields.io/badge/XploraHub-methods-AF521B)](https://xplorahub.com/methods)
 
-A curated list of open-source software for mineral exploration: geophysics, geological modelling, drillholes, geostatistics, geochemistry, remote sensing and prospectivity mapping.
+A curated list of open-source software for mineral exploration: geophysics, geological modelling, drillholes, geostatistics, geochemistry, remote sensing, prospectivity mapping and drone surveys, with the open data portals they work from.
 
 Every tool here is open source, has a licence and has been updated in the last 18 months. Icons show the main language; the licence follows each description. Curated by [XploraHub](https://xplorahub.com), open ground for exploration & mining technology.
 
@@ -24,7 +24,8 @@ Every tool here is open source, has a licence and has been updated in the last 1
 - [Geochemistry](#geochemistry)
 - [Remote sensing](#remote-sensing)
 - [Prospectivity mapping and machine learning](#prospectivity-mapping-and-machine-learning)
-- [Geological data](#geological-data)
+- [Open data](#open-data)
+- [Drones, photogrammetry and point clouds](#drones-photogrammetry-and-point-clouds)
 - [GIS and 3D visualisation](#gis-and-3d-visualisation)
 - [Related lists](#related-lists)
 
@@ -104,9 +105,24 @@ Background: [AI in mining](https://xplorahub.com/guides/ai-in-mining).
 - [MPM Curnamona REE](https://github.com/EarthByte/MPM_Geochemistry_Curnamona_REE) – <img src="assets/icons/jupyter.svg" alt="Jupyter" height="16"> High-resolution REE prospectivity from geochemical features, from EarthByte. GPL-3.0.
 - [MPM Lachlan Laterite](https://github.com/EarthByte/MPM_Lachlan_Laterite) – <img src="assets/icons/jupyter.svg" alt="Jupyter" height="16"> Prospectivity workflow for lateritic nickel-cobalt in the Lachlan Orogen, from EarthByte. GPL-3.0.
 
-## Geological data
+## Open data
 
+Government geoscience portals, where most exploration data starts. For datasets in more depth, see [Awesome Mining Data](https://github.com/Arpeggeo/awesome-mining-data).
+
+- [Geoscience Australia Portal](https://portal.ga.gov.au) – National geology, geophysics and mineral deposit data for Australia.
+- [GSWA Data and Software Centre](https://dasc.dmirs.wa.gov.au) – Western Australian geological maps, geophysics and datasets to download.
+- [SARIG](https://map.sarig.sa.gov.au) – South Australian geology, drillholes, geophysics and mineral exploration data.
+- [USGS Mineral Resources Data](https://mrdata.usgs.gov) – US mineral deposits, geochemistry and geophysics.
+- [Canada Geophysical Data Repository](https://geophysical-data.canada.ca) – Airborne and ground geophysical surveys across Canada.
+- [BGS OpenGeoscience](https://www.bgs.ac.uk/geological-data/opengeoscience/) – UK geological maps, boreholes and data from the British Geological Survey.
 - [Macrostrat](https://github.com/UW-Macrostrat/macrostrat) – <img src="assets/icons/python.svg" alt="Python" height="16"> Platform for integrating geological maps, stratigraphy and literature. Apache-2.0.
+
+## Drones, photogrammetry and point clouds
+
+- [OpenDroneMap](https://github.com/OpenDroneMap/ODM) – <img src="assets/icons/python.svg" alt="Python" height="16"> Turns drone photos into maps, point clouds and 3D models of outcrops and sites. AGPL-3.0.
+- [WebODM](https://github.com/WebODM/WebODM) – <img src="assets/icons/python.svg" alt="Python" height="16"> Browser interface for OpenDroneMap. AGPL-3.0.
+- [CloudCompare](https://github.com/CloudCompare/CloudCompare) – <img src="assets/icons/cplusplus.svg" alt="C++" height="16"> Editing and analysis of point clouds and meshes, used for outcrop and lidar work. GPL-2.0.
+- [PDAL](https://github.com/PDAL/PDAL) – <img src="assets/icons/cplusplus.svg" alt="C++" height="16"> Scripted processing of lidar and other point-cloud data. BSD.
 
 ## GIS and 3D visualisation
 
