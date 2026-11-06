@@ -61,6 +61,7 @@ How the methods work: [magnetics, gravity, ERT, IP, MT and more](https://xplorah
 - [deinterf](https://github.com/dyuu7/deinterf) – <img src="assets/icons/python.svg" alt="Python" height="16"> Removes the aircraft's own magnetic interference from airborne magnetic data (Tolles–Lawson). MIT.
 - [invert4geom](https://github.com/mdtanker/invert4geom) – <img src="assets/icons/python.svg" alt="Python" height="16"> 3D geometric gravity inversion, such as depth to basement. MIT.
 - [GPRPy](https://github.com/NSGeophysics/GPRPy) – <img src="assets/icons/python.svg" alt="Python" height="16"> Ground-penetrating radar processing and visualisation. MIT.
+- [hvsrpy](https://github.com/jpvantassel/hvsrpy) – <img src="assets/icons/python.svg" alt="Python" height="16"> Horizontal-to-vertical spectral ratio (HVSR) processing of passive seismic data, used for depth to bedrock under cover. GPL-3.0.
 
 ## Geological modelling and structural geology
 
@@ -101,6 +102,7 @@ How the method works: [geostatistics](https://xplorahub.com/methods/geostatistic
 - [scikit-gstat](https://github.com/mmaelicke/scikit-gstat) – <img src="assets/icons/python.svg" alt="Python" height="16"> Variogram estimation and modelling. MIT.
 - [GStatSim](https://github.com/GatorGlaciology/GStatSim) – <img src="assets/icons/python.svg" alt="Python" height="16"> Sequential Gaussian simulation and kriging. MIT.
 - [pyinterpolate](https://github.com/DataverseLabs/pyinterpolate) – <img src="assets/icons/python.svg" alt="Python" height="16"> Kriging, Poisson kriging and variogram analysis. BSD.
+- [GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) – <img src="assets/icons/julia.svg" alt="Julia" height="16"> Geostatistical estimation and simulation in Julia, with variography, kriging and geostatistical learning. MIT.
 
 ## Geochemistry
 
