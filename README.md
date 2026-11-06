@@ -157,6 +157,7 @@ Government geoscience portals, where most exploration data starts. For datasets 
 - [rioxarray](https://github.com/vylor/rioxarray) – <img src="assets/icons/python.svg" alt="Python" height="16"> Rasterio for xarray, for gridded survey data with coordinates. Apache-2.0.
 - [PyGMT](https://github.com/GenericMappingTools/pygmt) – <img src="assets/icons/python.svg" alt="Python" height="16"> Publication-quality maps and figures with the Generic Mapping Tools. BSD-3-Clause.
 - [PyVista](https://github.com/pyvista/pyvista) – <img src="assets/icons/python.svg" alt="Python" height="16"> 3D visualisation and mesh analysis, used by several tools above. MIT.
+- [RustGIS](https://github.com/opengeos/RustGIS) – <img src="assets/icons/rust.svg" alt="Rust" height="16"> Fast desktop and browser GIS in pure Rust, with over 1,000 terrain, hydrology, lidar and remote sensing tools. Apache-2.0.
 
 ## No longer maintained
 
