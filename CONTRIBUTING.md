@@ -28,7 +28,7 @@ Add new tools at the end of their section. If a tool fits no section, say so in 
 
 ## Fixing or removing an entry
 
-Pull requests that fix a broken link, a moved repository or a wrong licence are always welcome. If a tool has been archived or has not been updated in 18 months, open a pull request to remove it.
+Pull requests that fix a broken link, a moved repository or a wrong licence are always welcome. If a tool has not been updated in 18 months, open a pull request to move it to [No longer maintained](README.md#no-longer-maintained), or to remove it if it no longer works or is no longer useful.
 
 ## Conduct
 

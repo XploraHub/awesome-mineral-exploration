@@ -13,7 +13,7 @@
 
 A curated list of open-source software for mineral exploration: geophysics, geological modelling, drillholes, geostatistics, geochemistry, remote sensing, prospectivity mapping and drone surveys, with the open data portals they work from.
 
-Every tool here is open source, has a licence and has been updated in the last 18 months. Icons show the main language; the licence follows each description. Curated by [XploraHub](https://xplorahub.com), open ground for exploration & mining technology.
+Every tool here is open source, has a licence and has been updated in the last 18 months, except those under [No longer maintained](#no-longer-maintained). Icons show the main language; the licence follows each description. Curated by [XploraHub](https://xplorahub.com), open ground for exploration & mining technology.
 
 ## Contents
 
@@ -27,6 +27,7 @@ Every tool here is open source, has a licence and has been updated in the last 1
 - [Open data](#open-data)
 - [Drones, photogrammetry and point clouds](#drones-photogrammetry-and-point-clouds)
 - [GIS and 3D visualisation](#gis-and-3d-visualisation)
+- [No longer maintained](#no-longer-maintained)
 - [Related lists](#related-lists)
 
 ## Geophysics
@@ -152,6 +153,14 @@ Government geoscience portals, where most exploration data starts. For datasets 
 - [rioxarray](https://github.com/vylor/rioxarray) – <img src="assets/icons/python.svg" alt="Python" height="16"> Rasterio for xarray, for gridded survey data with coordinates. Apache-2.0.
 - [PyGMT](https://github.com/GenericMappingTools/pygmt) – <img src="assets/icons/python.svg" alt="Python" height="16"> Publication-quality maps and figures with the Generic Mapping Tools. BSD-3-Clause.
 - [PyVista](https://github.com/pyvista/pyvista) – <img src="assets/icons/python.svg" alt="Python" height="16"> 3D visualisation and mesh analysis, used by several tools above. MIT.
+
+## No longer maintained
+
+Good tools that have had no updates for 18 months or more. They may not run on current versions of their dependencies, but the code and methods are still worth reading.
+
+- [dh2loop](https://github.com/Loop3D/dh2loop) – <img src="assets/icons/python.svg" alt="Python" height="16"> Extracts and standardises drillhole lithology for 3D modelling, from Loop3D. MIT. Last updated 2023.
+- [DrillDown](https://github.com/cardinalgeo/drilldown) – <img src="assets/icons/python.svg" alt="Python" height="16"> Interactive 3D views and analysis of drillhole and ore deposit data from a notebook. MIT. Last updated 2024.
+- [geochemical_anomaly_detection](https://github.com/MinersAI/geochemical_anomaly_detection) – <img src="assets/icons/python.svg" alt="Python" height="16"> Notebooks comparing methods for multivariate geochemical outlier detection. MIT. Last updated 2025.
 
 ## Related lists
 
