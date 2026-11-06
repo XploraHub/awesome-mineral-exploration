@@ -62,6 +62,7 @@ How the methods work: [geological modelling](https://xplorahub.com/methods/geolo
 - [geoML](https://github.com/italo-goncalves/geoML) – <img src="assets/icons/python.svg" alt="Python" height="16"> Gaussian-process spatial modelling, including implicit geological models. GPL-3.0.
 - [APSG](https://github.com/ondrolexa/apsg) – <img src="assets/icons/python.svg" alt="Python" height="16"> Structural geology and fabric analysis. MIT.
 - [mplstereonet](https://github.com/joferkington/mplstereonet) – <img src="assets/icons/python.svg" alt="Python" height="16"> Stereonets for structural data in matplotlib. MIT.
+- [BlenderGeoModeller](https://github.com/bsomps/BlenderGeoModeller) – <img src="assets/icons/python.svg" alt="Python" height="16"> Blender add-on that imports drillholes and builds block models and grade shells, with GemPy integration. MIT.
 
 ## Drillholes and logging
 
@@ -70,6 +71,13 @@ How the methods work: [diamond and RC drilling](https://xplorahub.com/methods/di
 - [GeoStrix](https://github.com/Matt-Mendes-ai/geostrix) – <img src="assets/icons/javascript.svg" alt="JavaScript" height="16"> Lightweight 3D software for drillholes, geochemistry, geophysics, modelling and drill planning. MIT. [XploraHub page](https://xplorahub.com/products/geostrix).
 - [lasio](https://github.com/kinverarity1/lasio) – <img src="assets/icons/python.svg" alt="Python" height="16"> Read and write Log ASCII Standard (LAS) files for downhole logs. MIT.
 - [omfvista](https://github.com/pyvista/omfvista) – <img src="assets/icons/python.svg" alt="Python" height="16"> Loads Open Mining Format (OMF) files into PyVista for 3D viewing. BSD-3-Clause.
+- [GeoSuite](https://github.com/ghoziankarami/geosuite) – <img src="assets/icons/javascript.svg" alt="JavaScript" height="16"> Browser and Windows app that validates and desurveys drillhole data, composites assays and builds a screening block model. GPL-3.0.
+- [Baselode](https://github.com/darkmine-oss/baselode) – <img src="assets/icons/python.svg" alt="Python" height="16"> <img src="assets/icons/javascript.svg" alt="JavaScript" height="16"> Python and JavaScript toolkit for loading, desurveying and viewing drillhole data in 1D, 2D and 3D. GPL-3.0.
+- [OpenGeoPlotter](https://github.com/bsomps/OpenGeoPlotter) – <img src="assets/icons/python.svg" alt="Python" height="16"> Desktop app for drillhole cross-sections, strip logs, 3D views and alpha-beta conversion. GPL-3.0.
+- [Geoscience for QGIS](https://github.com/rolandhill/geoscience) – <img src="assets/icons/python.svg" alt="Python" height="16"> QGIS plugin that desurveys drillholes and draws them in plan and section. GPL-3.0.
+- [corelab](https://github.com/kevinalexandr19/corelab) – <img src="assets/icons/python.svg" alt="Python" height="16"> 2D and 3D plots of drillhole data in Python. MIT.
+- [DrillHoles.jl](https://github.com/JuliaEarth/DrillHoles.jl) – <img src="assets/icons/julia.svg" alt="Julia" height="16"> Drillhole desurveying and compositing for the GeoStats.jl framework. MIT.
+- [CoreSpecViewer](https://github.com/Russjas/CoreSpecViewer) – <img src="assets/icons/python.svg" alt="Python" height="16"> Desktop app for processing and viewing hyperspectral drill core scans. GPL-3.0.
 
 ## Geostatistics and resource estimation
 
@@ -85,6 +93,7 @@ How the method works: [geostatistics](https://xplorahub.com/methods/geostatistic
 ## Geochemistry
 
 - [pyrolite](https://github.com/morganjwilliams/pyrolite) – <img src="assets/icons/python.svg" alt="Python" height="16"> Processing, normalisation and plotting of geochemical data. MIT.
+- [Geochemistry QAQC](https://github.com/GeoscienceAustralia/Geochemistry) – <img src="assets/icons/python.svg" alt="Python" height="16"> Geoscience Australia's script for checking standards and duplicates in geochemical data. Apache-2.0.
 
 ## Remote sensing
 
