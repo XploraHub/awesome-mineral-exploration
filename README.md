@@ -51,6 +51,15 @@ How the methods work: [magnetics, gravity, ERT, IP, MT and more](https://xplorah
 - [GA-AEM](https://github.com/GeoscienceAustralia/ga-aem) – <img src="assets/icons/cplusplus.svg" alt="C++" height="16"> Modelling and 1D inversion of airborne electromagnetic data, from Geoscience Australia. GPL-2.0.
 - [segyio](https://github.com/equinor/segyio) – <img src="assets/icons/c.svg" alt="C" height="16"> <img src="assets/icons/python.svg" alt="Python" height="16"> Fast reading and writing of SEG-Y seismic files. LGPL-3.0.
 - [OpendTect](https://github.com/OpendTect/OpendTect) – <img src="assets/icons/cplusplus.svg" alt="C++" height="16"> Seismic interpretation software. GPL-3.0.
+- [SGTool](https://github.com/swaxi/SGTool) – <img src="assets/icons/python.svg" alt="Python" height="16"> QGIS and ArcGIS Pro plugin for potential-field grid processing, built for the WAXI structural geophysics course. MIT.
+- [resistics](https://github.com/resistics/resistics) – <img src="assets/icons/python.svg" alt="Python" height="16"> Robust processing of magnetotelluric time series. MIT.
+- [razorback](https://github.com/BRGM/razorback) – <img src="assets/icons/python.svg" alt="Python" height="16"> Robust magnetotelluric processing from BRGM. GPL-3.0.
+- [MTH5](https://github.com/IAGA-DVI-DataStandards/mth5) – <img src="assets/icons/python.svg" alt="Python" height="16"> Archivable, exchangeable file format for magnetotelluric time series. MIT.
+- [FEMTIC](https://github.com/yoshiya-usui/femtic) – <img src="assets/icons/cplusplus.svg" alt="C++" height="16"> 3D magnetotelluric inversion on unstructured meshes. MIT.
+- [rjmcmcmt](https://github.com/GeoscienceAustralia/rjmcmcmt) – <img src="assets/icons/cplusplus.svg" alt="C++" height="16"> Reversible-jump Markov chain Monte Carlo inversion of magnetotelluric data, from Geoscience Australia. GPL-3.0.
+- [deinterf](https://github.com/dyuu7/deinterf) – <img src="assets/icons/python.svg" alt="Python" height="16"> Removes the aircraft's own magnetic interference from airborne magnetic data (Tolles–Lawson). MIT.
+- [invert4geom](https://github.com/mdtanker/invert4geom) – <img src="assets/icons/python.svg" alt="Python" height="16"> 3D geometric gravity inversion, such as depth to basement. MIT.
+- [GPRPy](https://github.com/NSGeophysics/GPRPy) – <img src="assets/icons/python.svg" alt="Python" height="16"> Ground-penetrating radar processing and visualisation. MIT.
 
 ## Geological modelling and structural geology
 
@@ -63,6 +72,8 @@ How the methods work: [geological modelling](https://xplorahub.com/methods/geolo
 - [APSG](https://github.com/ondrolexa/apsg) – <img src="assets/icons/python.svg" alt="Python" height="16"> Structural geology and fabric analysis. MIT.
 - [mplstereonet](https://github.com/joferkington/mplstereonet) – <img src="assets/icons/python.svg" alt="Python" height="16"> Stereonets for structural data in matplotlib. MIT.
 - [BlenderGeoModeller](https://github.com/bsomps/BlenderGeoModeller) – <img src="assets/icons/python.svg" alt="Python" height="16"> Blender add-on that imports drillholes and builds block models and grade shells, with GemPy integration. MIT.
+- [fractoolbox](https://github.com/ICWallis/fractoolbox) – <img src="assets/icons/python.svg" alt="Python" height="16"> Structural geology and borehole image analysis of fractures. Apache-2.0.
+- [structuralGeology](https://github.com/nfcd/structuralGeology) – <img src="assets/icons/python.svg" alt="Python" height="16"> Python scripts for structural geology calculations and plots. MIT.
 
 ## Drillholes and logging
 
