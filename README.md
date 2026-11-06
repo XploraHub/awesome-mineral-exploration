@@ -73,7 +73,7 @@ How the methods work: [geological modelling](https://xplorahub.com/methods/geolo
 - [mplstereonet](https://github.com/joferkington/mplstereonet) – <img src="assets/icons/python.svg" alt="Python" height="16"> Stereonets for structural data in matplotlib. MIT.
 - [BlenderGeoModeller](https://github.com/bsomps/BlenderGeoModeller) – <img src="assets/icons/python.svg" alt="Python" height="16"> Blender add-on that imports drillholes and builds block models and grade shells, with GemPy integration. MIT.
 - [fractoolbox](https://github.com/ICWallis/fractoolbox) – <img src="assets/icons/python.svg" alt="Python" height="16"> Structural geology and borehole image analysis of fractures. Apache-2.0.
-- [structuralGeology](https://github.com/nfcd/structuralGeology) – <img src="assets/icons/python.svg" alt="Python" height="16"> Python scripts for structural geology calculations and plots. MIT.
+- [structuralGeology](https://github.com/nfcd/structuralGeology) – <img src="assets/icons/python.svg" alt="Python" height="16"> Jupyter notebooks for structural geology, from a university course. MIT.
 
 ## Drillholes and logging
 
