@@ -101,10 +101,12 @@ How the method works: [geostatistics](https://xplorahub.com/methods/geostatistic
 - [PyKrige](https://github.com/GeoStat-Framework/PyKrige) – <img src="assets/icons/python.svg" alt="Python" height="16"> Ordinary and universal kriging in 2D and 3D. BSD-3-Clause.
 - [scikit-gstat](https://github.com/mmaelicke/scikit-gstat) – <img src="assets/icons/python.svg" alt="Python" height="16"> Variogram estimation and modelling. MIT.
 - [GStatSim](https://github.com/GatorGlaciology/GStatSim) – <img src="assets/icons/python.svg" alt="Python" height="16"> Sequential Gaussian simulation and kriging. MIT.
-- [pyinterpolate](https://github.com/DataverseLabs/pyinterpolate) – <img src="assets/icons/python.svg" alt="Python" height="16"> Kriging, Poisson kriging and variogram analysis. BSD.
+- [pyinterpolate](https://github.com/DataverseLabs/pyinterpolate) – <img src="assets/icons/python.svg" alt="Python" height="16"> Kriging, Poisson kriging and variogram analysis. BSD-3-Clause.
 - [GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) – <img src="assets/icons/julia.svg" alt="Julia" height="16"> Geostatistical estimation and simulation in Julia, with variography, kriging and geostatistical learning. MIT.
 
 ## Geochemistry
+
+How the methods work: [portable XRF](https://xplorahub.com/methods/portable-xrf) and [fire assay](https://xplorahub.com/methods/fire-assay).
 
 - [pyrolite](https://github.com/morganjwilliams/pyrolite) – <img src="assets/icons/python.svg" alt="Python" height="16"> Processing, normalisation and plotting of geochemical data. MIT.
 - [Geochemistry QAQC](https://github.com/GeoscienceAustralia/Geochemistry) – <img src="assets/icons/python.svg" alt="Python" height="16"> Geoscience Australia's script for checking standards and duplicates in geochemical data. Apache-2.0.
@@ -145,7 +147,7 @@ Government geoscience portals, where most exploration data starts. For datasets 
 - [OpenDroneMap](https://github.com/OpenDroneMap/ODM) – <img src="assets/icons/python.svg" alt="Python" height="16"> Turns drone photos into maps, point clouds and 3D models of outcrops and sites. AGPL-3.0.
 - [WebODM](https://github.com/WebODM/WebODM) – <img src="assets/icons/python.svg" alt="Python" height="16"> Browser interface for OpenDroneMap. AGPL-3.0.
 - [CloudCompare](https://github.com/CloudCompare/CloudCompare) – <img src="assets/icons/cplusplus.svg" alt="C++" height="16"> Editing and analysis of point clouds and meshes, used for outcrop and lidar work. GPL-2.0.
-- [PDAL](https://github.com/PDAL/PDAL) – <img src="assets/icons/cplusplus.svg" alt="C++" height="16"> Scripted processing of lidar and other point-cloud data. BSD.
+- [PDAL](https://github.com/PDAL/PDAL) – <img src="assets/icons/cplusplus.svg" alt="C++" height="16"> Scripted processing of lidar and other point-cloud data. BSD-3-Clause.
 
 ## GIS and 3D visualisation
 
@@ -180,3 +182,5 @@ To add a tool, open a pull request with one line in the right section. Tools lis
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This list is released under CC0 1.0. The tools listed keep their own licences.
+
+The language icons in `assets/icons` are from [Devicon](https://github.com/devicons/devicon) and stay under its MIT licence ([assets/icons/LICENSE](assets/icons/LICENSE)). The code of conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), under CC BY 4.0. The XploraHub name, logo and banner are not covered by CC0.
