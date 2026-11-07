@@ -27,8 +27,8 @@ Every tool here is open source, has a licence and has been updated in the last 1
 - [Open data](#open-data)
 - [Drones, photogrammetry and point clouds](#drones-photogrammetry-and-point-clouds)
 - [GIS and 3D visualisation](#gis-and-3d-visualisation)
-- [No longer maintained](#no-longer-maintained)
 - [Related lists](#related-lists)
+- [No longer maintained](#no-longer-maintained)
 
 ## Geophysics
 
@@ -125,10 +125,6 @@ Background: [AI in mining](https://xplorahub.com/guides/ai-in-mining).
 - [uncover-ml](https://github.com/GeoscienceAustralia/uncover-ml) – <img src="assets/icons/python.svg" alt="Python" height="16"> Machine learning for geoscience mapping, from Geoscience Australia's UNCOVER programme. Apache-2.0.
 - [pulearn](https://github.com/pulearn/pulearn) – <img src="assets/icons/python.svg" alt="Python" height="16"> Positive-unlabelled learning, suited to prospectivity where only known deposits are labelled. BSD-3-Clause.
 - [elapid](https://github.com/earth-chris/elapid) – <img src="assets/icons/python.svg" alt="Python" height="16"> MaxEnt and other presence-only models, used for prospectivity as well as species mapping. MIT.
-- [3DMPM](https://github.com/ChengYeung1222/3DMPM) – <img src="assets/icons/cplusplus.svg" alt="C++" height="16"> 3D prospectivity from 3D geological models with convolutional neural networks. MIT.
-- [MPM Gawler](https://github.com/EarthByte/MPM_Gawler) – <img src="assets/icons/jupyter.svg" alt="Jupyter" height="16"> Prospectivity workflow for critical minerals in the Gawler Craton, from EarthByte. GPL-3.0.
-- [MPM Curnamona REE](https://github.com/EarthByte/MPM_Geochemistry_Curnamona_REE) – <img src="assets/icons/jupyter.svg" alt="Jupyter" height="16"> High-resolution REE prospectivity from geochemical features, from EarthByte. GPL-3.0.
-- [MPM Lachlan Laterite](https://github.com/EarthByte/MPM_Lachlan_Laterite) – <img src="assets/icons/jupyter.svg" alt="Jupyter" height="16"> Prospectivity workflow for lateritic nickel-cobalt in the Lachlan Orogen, from EarthByte. GPL-3.0.
 
 ## Open data
 
@@ -159,20 +155,41 @@ Government geoscience portals, where most exploration data starts. For datasets 
 - [PyVista](https://github.com/pyvista/pyvista) – <img src="assets/icons/python.svg" alt="Python" height="16"> 3D visualisation and mesh analysis, used by several tools above. MIT.
 - [RustGIS](https://github.com/opengeos/RustGIS) – <img src="assets/icons/rust.svg" alt="Rust" height="16"> Fast desktop and browser GIS in pure Rust, with over 1,000 terrain, hydrology, lidar and remote sensing tools. Apache-2.0.
 
-## No longer maintained
-
-Good tools that have had no updates for 18 months or more. They may not run on current versions of their dependencies, but the code and methods are still worth reading.
-
-- [dh2loop](https://github.com/Loop3D/dh2loop) – <img src="assets/icons/python.svg" alt="Python" height="16"> Extracts and standardises drillhole lithology for 3D modelling, from Loop3D. MIT. Last updated 2023.
-- [DrillDown](https://github.com/cardinalgeo/drilldown) – <img src="assets/icons/python.svg" alt="Python" height="16"> Interactive 3D views and analysis of drillhole and ore deposit data from a notebook. MIT. Last updated 2024.
-- [geochemical_anomaly_detection](https://github.com/MinersAI/geochemical_anomaly_detection) – <img src="assets/icons/python.svg" alt="Python" height="16"> Notebooks comparing methods for multivariate geochemical outlier detection. MIT. Last updated 2025.
-
 ## Related lists
 
 - [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) – Open-source geoscience software across every field.
 - [Mineral exploration machine learning](https://github.com/RichardScottOZ/mineral-exploration-machine-learning) – Papers, code and data for machine learning in mineral exploration.
 - [Awesome Mining Data](https://github.com/Arpeggeo/awesome-mining-data) – Open datasets for the mining industry.
 - [Awesome Mining Band Ratio](https://github.com/rodreras/awesome-mining-band-ratio) – Band ratios and mineral spectra for exploration.
+
+## No longer maintained
+
+Good tools that have had no updates for 18 months or more. They may not run on current versions of their dependencies, but the code and methods are still worth reading. Each is filed under the section it came from, and moves back there when it is updated again.
+
+<details>
+<summary><b>Drillholes and logging</b> (2)</summary>
+
+- [dh2loop](https://github.com/Loop3D/dh2loop) – <img src="assets/icons/python.svg" alt="Python" height="16"> Extracts and standardises drillhole lithology for 3D modelling, from Loop3D. MIT. Last updated 2023.
+- [DrillDown](https://github.com/cardinalgeo/drilldown) – <img src="assets/icons/python.svg" alt="Python" height="16"> Interactive 3D views and analysis of drillhole and ore deposit data from a notebook. MIT. Last updated 2024.
+
+</details>
+
+<details>
+<summary><b>Geochemistry</b> (1)</summary>
+
+- [geochemical_anomaly_detection](https://github.com/MinersAI/geochemical_anomaly_detection) – <img src="assets/icons/python.svg" alt="Python" height="16"> Notebooks comparing methods for multivariate geochemical outlier detection. MIT. Last updated 2025.
+
+</details>
+
+<details>
+<summary><b>Prospectivity mapping and machine learning</b> (4)</summary>
+
+- [3DMPM](https://github.com/ChengYeung1222/3DMPM) – <img src="assets/icons/cplusplus.svg" alt="C++" height="16"> 3D prospectivity from 3D geological models with convolutional neural networks. MIT. Last updated 2023.
+- [MPM Gawler](https://github.com/EarthByte/MPM_Gawler) – <img src="assets/icons/jupyter.svg" alt="Jupyter" height="16"> Prospectivity workflow for critical minerals in the Gawler Craton, from EarthByte. GPL-3.0. Last updated 2024.
+- [MPM Curnamona REE](https://github.com/EarthByte/MPM_Geochemistry_Curnamona_REE) – <img src="assets/icons/jupyter.svg" alt="Jupyter" height="16"> High-resolution REE prospectivity from geochemical features, from EarthByte. GPL-3.0. Last updated 2024.
+- [MPM Lachlan Laterite](https://github.com/EarthByte/MPM_Lachlan_Laterite) – <img src="assets/icons/jupyter.svg" alt="Jupyter" height="16"> Prospectivity workflow for lateritic nickel-cobalt in the Lachlan Orogen, from EarthByte. GPL-3.0. Last updated 2024.
+
+</details>
 
 ## Contributing
 
