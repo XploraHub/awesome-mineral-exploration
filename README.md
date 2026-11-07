@@ -127,7 +127,7 @@ Background: [AI in mining](https://xplorahub.com/guides/ai-in-mining).
 
 ## Open data
 
-Government geoscience portals, where most exploration data starts. For 75 portals with their licences and known traps, see Geoscience data portals under Related lists below; for datasets in more depth, Awesome Mining Data.
+Government geoscience portals, where most exploration data starts. For each portal, its licence and what to watch out for, see Geoscience data portals under Related lists below; for datasets in more depth, Awesome Mining Data.
 
 - [Geoscience Australia Portal](https://portal.ga.gov.au) - National geology, geophysics and mineral deposit data for Australia.
 - [GSWA Data and Software Centre](https://dasc.dmirs.wa.gov.au) - Western Australian geological maps, geophysics and datasets to download.
@@ -156,7 +156,7 @@ Government geoscience portals, where most exploration data starts. For 75 portal
 
 ## Related lists
 
-- [Geoscience data portals](https://github.com/XploraHub/geoscience-data-portals) - 75 government geoscience data portals for exploration, with what each holds, its licence, its known traps and QGIS connection files.
+- [Geoscience data portals](https://github.com/XploraHub/geoscience-data-portals) - Government geoscience data portals for exploration, with what each holds, its licence, what to watch out for and QGIS connection files.
 - [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) - Open-source geoscience software across every field.
 - [Mineral exploration machine learning](https://github.com/RichardScottOZ/mineral-exploration-machine-learning) - Papers, code and data for machine learning in mineral exploration.
 - [Awesome Mining Data](https://github.com/Arpeggeo/awesome-mining-data) - Open datasets for the mining industry.
