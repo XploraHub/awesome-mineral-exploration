@@ -7,7 +7,7 @@ Thank you for helping to keep this list useful.
 Open a pull request that adds one line to the right section of `README.md`:
 
 ```
-- [Name](link to the repository) – <img src="assets/icons/python.svg" alt="Python" height="16"> What it does, in one sentence. Licence.
+- [Name](link to the repository) - <img src="assets/icons/python.svg" alt="Python" height="16"> What it does, in one sentence. Licence.
 ```
 
 The icon shows the main language. Icons are in `assets/icons` (from [Devicon](https://github.com/devicons/devicon), MIT); add one there if your language is missing.
@@ -21,7 +21,7 @@ A tool belongs here when it:
 If the tool has a page on [XploraHub](https://xplorahub.com/directory/organisations), add it after the licence, the same way for every entry:
 
 ```
-- [Name](link to the repository) – <img src="assets/icons/python.svg" alt="Python" height="16"> What it does. Licence. [XploraHub page](link to the page).
+- [Name](link to the repository) - <img src="assets/icons/python.svg" alt="Python" height="16"> What it does. Licence. [XploraHub page](link to the page).
 ```
 
 Add new tools at the end of their section. If a tool fits no section, say so in the pull request and we will find it a place.
