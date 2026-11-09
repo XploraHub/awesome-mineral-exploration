@@ -156,6 +156,7 @@ Government geoscience portals, where most exploration data starts. For each port
 
 ## Related lists
 
+- [Awesome Mining](https://github.com/XploraHub/awesome-mining) - Open-source software for working mines, from mine planning and geotechnics to processing, tailings and closure.
 - [Geoscience data portals](https://github.com/XploraHub/geoscience-data-portals) - Government geoscience data portals for exploration, with what each holds, its licence, what to watch out for and QGIS connection files.
 - [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) - Open-source geoscience software across every field.
 - [Mineral exploration machine learning](https://github.com/RichardScottOZ/mineral-exploration-machine-learning) - Papers, code and data for machine learning in mineral exploration.
