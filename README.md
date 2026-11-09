@@ -170,6 +170,13 @@ Government geoscience portals, where most exploration data starts. For each port
 Good tools that have had no updates for 18 months or more. They may not run on current versions of their dependencies, but the code and methods are still worth reading. Each is filed under the section it came from, and moves back there when it is updated again.
 
 <details>
+<summary><b>Geological modelling and structural geology</b> (1)</summary>
+
+- [GeoINR](https://github.com/MichaelHillier/GeoINR) - <img src="assets/icons/python.svg" alt="Python" height="16"> Implicit neural representations for 3D structural geological modelling, from the Geological Survey of Canada and RWTH Aachen. MIT. Last updated 2023.
+
+</details>
+
+<details>
 <summary><b>Drillholes and logging</b> (2)</summary>
 
 - [dh2loop](https://github.com/Loop3D/dh2loop) - <img src="assets/icons/python.svg" alt="Python" height="16"> Extracts and standardises drillhole lithology for 3D modelling, from Loop3D. MIT. Last updated 2023.
