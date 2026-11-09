@@ -70,6 +70,7 @@ How the methods work: [geological modelling](https://xplorahub.com/methods/geolo
 - [GemGIS](https://github.com/cgre-aachen/gemgis) - <img src="assets/icons/python.svg" alt="Python" height="16"> Prepares GIS and spatial data for geological modelling with GemPy. LGPL-3.0.
 - [LoopStructural](https://github.com/Loop3D/LoopStructural) - <img src="assets/icons/python.svg" alt="Python" height="16"> 3D structural geological modelling library, including folds and faults. MIT.
 - [geoML](https://github.com/italo-goncalves/geoML) - <img src="assets/icons/python.svg" alt="Python" height="16"> Gaussian-process spatial modelling, including implicit geological models. GPL-3.0.
+- [curlew](https://github.com/samthiele/curlew) - <img src="assets/icons/python.svg" alt="Python" height="16"> 2D and 3D geological models built from neural fields, following the geological history, with synthetic models for testing. MIT.
 - [APSG](https://github.com/ondrolexa/apsg) - <img src="assets/icons/python.svg" alt="Python" height="16"> Structural geology and fabric analysis. MIT.
 - [mplstereonet](https://github.com/joferkington/mplstereonet) - <img src="assets/icons/python.svg" alt="Python" height="16"> Stereonets for structural data in matplotlib. MIT.
 - [BlenderGeoModeller](https://github.com/bsomps/BlenderGeoModeller) - <img src="assets/icons/python.svg" alt="Python" height="16"> Blender add-on that imports drillholes and builds block models and grade shells, with GemPy integration. MIT.
@@ -147,6 +148,7 @@ Government geoscience portals, where most exploration data starts. For each port
 ## GIS and 3D visualisation
 
 - [QGIS](https://github.com/qgis/QGIS) - <img src="assets/icons/cplusplus.svg" alt="C++" height="16"> <img src="assets/icons/python.svg" alt="Python" height="16"> Desktop GIS for maps, tenements and survey data. GPL-2.0.
+- [GRASS](https://github.com/OSGeo/grass) - <img src="assets/icons/c.svg" alt="C" height="16"> <img src="assets/icons/python.svg" alt="Python" height="16"> Geospatial processing engine for large rasters and vectors, with 3D voxel tools. GPL-2.0-or-later.
 - [GeoPandas](https://github.com/geopandas/geopandas) - <img src="assets/icons/python.svg" alt="Python" height="16"> Vector geospatial data in Python. BSD-3-Clause.
 - [Rasterio](https://github.com/rasterio/rasterio) - <img src="assets/icons/python.svg" alt="Python" height="16"> Reading and writing raster data such as grids and imagery. BSD-3-Clause.
 - [rioxarray](https://github.com/vylor/rioxarray) - <img src="assets/icons/python.svg" alt="Python" height="16"> Rasterio for xarray, for gridded survey data with coordinates. Apache-2.0.
