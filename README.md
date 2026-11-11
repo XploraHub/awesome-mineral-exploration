@@ -111,7 +111,7 @@ How the methods work: [portable XRF](https://xplorahub.com/methods/portable-xrf)
 
 - [pyrolite](https://github.com/morganjwilliams/pyrolite) - <img src="assets/icons/python.svg" alt="Python" height="16"> Processing, normalisation and plotting of geochemical data. MIT.
 - [Geochemistry QAQC](https://github.com/GeoscienceAustralia/Geochemistry) - <img src="assets/icons/python.svg" alt="Python" height="16"> Geoscience Australia's script for checking standards and duplicates in geochemical data. Apache-2.0.
-- [GeoCluster Research Harness](https://github.com/EigenformAI/geocluster-research-harness) - <img src="assets/icons/javascript.svg" alt="JavaScript" height="16"> <img src="assets/icons/python.svg" alt="Python" height="16"> Research agent in a Docker image, with a bundled geological MCP server, that cleans assay tables, clusters geochemistry, ranks anomalies and answers questions from technical reports, using your own model provider. Apache-2.0.
+- [GeoCluster Research Harness](https://github.com/EigenformAI/geocluster-research-harness) - <img src="assets/icons/javascript.svg" alt="JavaScript" height="16"> <img src="assets/icons/python.svg" alt="Python" height="16"> Research agent in a Docker image, with a bundled geological MCP server, that cleans assay tables, clusters geochemistry, ranks anomalies and answers questions from technical reports, using your own model provider. Apache-2.0. [XploraHub page](https://xplorahub.com/products/geocluster-research-harness-eigenform).
 
 ## Remote sensing
 
