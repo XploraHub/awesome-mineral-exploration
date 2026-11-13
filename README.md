@@ -77,6 +77,7 @@ How the methods work: [geological modelling](https://xplorahub.com/methods/geolo
 - [fractoolbox](https://github.com/ICWallis/fractoolbox) - <img src="assets/icons/python.svg" alt="Python" height="16"> Structural geology and borehole image analysis of fractures. Apache-2.0.
 - [structuralGeology](https://github.com/nfcd/structuralGeology) - <img src="assets/icons/python.svg" alt="Python" height="16"> Jupyter notebooks for structural geology, from a university course. MIT.
 - [OpenGeode-Geosciences](https://github.com/Geode-solutions/OpenGeode-Geosciences) - <img src="assets/icons/cplusplus.svg" alt="C++" height="16"> <img src="assets/icons/python.svg" alt="Python" height="16"> Data structures for geological models and geological objects, built on the OpenGeode framework. MIT.
+- [OpenGeode-GeosciencesIO](https://github.com/Geode-solutions/OpenGeode-GeosciencesIO) - <img src="assets/icons/cplusplus.svg" alt="C++" height="16"> <img src="assets/icons/python.svg" alt="Python" height="16"> Reads and writes GOCAD (TS, PL, VS, VO, WL, ML, LSO), OMF, GeoTIFF, DEM, GRDECL, shapefiles and well files for OpenGeode models; its sister module [OpenGeode-Inspector](https://github.com/Geode-solutions/OpenGeode-Inspector) checks meshes and models for topology errors, intersections and degenerate elements. MIT.
 
 ## Drillholes and logging
 
@@ -131,6 +132,7 @@ Background: [AI in mining](https://xplorahub.com/guides/ai-in-mining).
 - [GPlately](https://github.com/GPlates/gplately) - <img src="assets/icons/python.svg" alt="Python" height="16"> Reconstructs points, lines and rasters through deep time and queries plate kinematics, such as subduction rates, on top of pyGPlates. GPL-2.0.
 - [STAMP PNG](https://github.com/EarthByte/STAMP_PNG) - <img src="assets/icons/jupyter.svg" alt="Jupyter" height="16"> Spatio-temporal prospectivity modelling of porphyry systems in Papua New Guinea and the Solomon Islands, from EarthByte. Apache-2.0.
 - [Porphyry prospectivity, Americas](https://github.com/EarthByte/porphyry-prospectivity-americas) - <img src="assets/icons/jupyter.svg" alt="Jupyter" height="16"> Spatio-temporal copper prospectivity in the American Cordillera, using positive-unlabelled learning on plate-model data, from EarthByte. Apache-2.0.
+- [MPM Lachlan Porphyry](https://github.com/EarthByte/MPM_Lachlan_Porphyry) - <img src="assets/icons/jupyter.svg" alt="Jupyter" height="16"> Machine-learning prospectivity for Cu-Au porphyry mineralisation in the Lachlan Orogen, New South Wales, from EarthByte. MIT.
 
 ## Open data
 
